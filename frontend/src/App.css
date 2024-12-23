@@ -309,6 +309,8 @@ nav {
   bottom: -5rem;
   transform: translateX(-50%);
   max-width: 550px;
+  max-height: 435px;
+  object-fit: contain;
 }
 
 .deals__content {
