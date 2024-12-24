@@ -36,7 +36,7 @@ const ProductCrards = ({ products }) => {
               </p>
             </div>
 
-            <div>
+            <div className="flex justify-center items-center">
               <RatingStars rating={product.rating} />
             </div>
           </div>
