@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "_id": 1,
     "name": "Leather Handbag",
     "category": "accessories",
     "description": "Stylish leather handbag with ample storage space.",
@@ -12,7 +12,7 @@
     "author": "admin"
   },
   {
-    "id": 3,
+    "_id": 3,
     "name": "Gold Necklace",
     "category": "jewellery",
     "description": "Exquisite gold necklace with intricate design.",
@@ -22,7 +22,7 @@
     "rating": 4.7
   },
   {
-    "id": 4,
+    "_id": 4,
     "name": "Matte Lipstick",
     "category": "cosmetics",
     "description": "Long-lasting matte lipstick in various shades.",
@@ -32,7 +32,7 @@
     "rating": 4.2
   },
   {
-    "id": 5,
+    "_id": 5,
     "name": "Silk Scarf",
     "category": "accessories",
     "description": "Luxurious silk scarf with vibrant colors.",
@@ -43,7 +43,7 @@
     "rating": 4.3
   },
   {
-    "id": 7,
+    "_id": 7,
     "name": "Diamond Earrings",
     "category": "jewellery",
     "description": "Sparkling diamond earrings that add elegance to any outfit.",
@@ -54,7 +54,7 @@
     "rating": 4.8
   },
   {
-    "id": 8,
+    "_id": 8,
     "name": "Foundation",
     "category": "cosmetics",
     "description": "High-coverage foundation for a flawless finish.",
